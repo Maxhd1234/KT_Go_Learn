@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KT_Go_Learn_Unable>Kann nicht lernen: {0}</KT_Go_Learn_Unable>
+  <KT_Go_Learn_Unable_Teacher>Kein Lehrer verfügbar</KT_Go_Learn_Unable_Teacher>
+  
+  <KT_Go_Learn_Unable_Lessontaking>Möchte nicht lernen</KT_Go_Learn_Unable_Lessontaking>
+  <KT_Go_Learn_Unable_Skydreaming>Möchte nicht in den Himmel gucken</KT_Go_Learn_Unable_Skydreaming>
+  <KT_Go_Learn_Unable_Workwatching>Möchte nicht {0} bei der Arbeit zugucken</KT_Go_Learn_Unable_Workwatching>
+  <KT_Go_Learn_Unable_Floordrawing>Möchte nicht den Boden bekritzeln</KT_Go_Learn_Unable_Floordrawing>
+  <KT_Go_Learn_Unable_Radiotalking>Möchte nicht an dem Radio reden</KT_Go_Learn_Unable_Radiotalking>
+  <KT_Go_Learn_Unable_NatureRunning>Möchte nicht in der Natur joggen</KT_Go_Learn_Unable_NatureRunning>
+  
+  <KT_Go_Learn_Unable_Hungry>Zu hungrig</KT_Go_Learn_Unable_Hungry>
+  <KT_Go_Learn_Unable_Tired>Zu müde</KT_Go_Learn_Unable_Tired>
+  <KT_Go_Learn_Unable_Satisfied>Muss nicht lernen</KT_Go_Learn_Unable_Satisfied>
+  
+  <KT_Go_Learn_Lessontaking>Geh etwas dazulernen</KT_Go_Learn_Lessontaking>
+  <KT_Go_Learn_Workwatching>Geh {0} bei der Arbeit zugucken</KT_Go_Learn_Workwatching>
+  <KT_Go_Learn_Skydreaming>Geh in den Himmel gucken</KT_Go_Learn_Skydreaming>
+  <KT_Go_Learn_Radiotalking>Geh an dem Radio reden</KT_Go_Learn_Radiotalking>
+  <KT_Go_Learn_Floordrawing>Geh den Boden bekritzeln</KT_Go_Learn_Floordrawing>
+  <KT_Go_Learn_NatureRunning>Geh in der Natur joggen</KT_Go_Learn_NatureRunning>
+</LanguageData>

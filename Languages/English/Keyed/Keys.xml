@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <KT_Go_Learn_Unable>Cannot learn: {0}</KT_Go_Learn_Unable>
+  <KT_Go_Learn_Unable_Teacher>No teacher available</KT_Go_Learn_Unable_Teacher>
+
+  <KT_Go_Learn_Unable_Lessontaking>Doesnt want to take lessons</KT_Go_Learn_Unable_Lessontaking>
+  <KT_Go_Learn_Unable_Skydreaming>Doesnt want to skydream</KT_Go_Learn_Unable_Skydreaming>
+  <KT_Go_Learn_Unable_Workwatching>Doesnt want to workwatch</KT_Go_Learn_Unable_Workwatching>
+  <KT_Go_Learn_Unable_Floordrawing>Doesnt want to flordraw</KT_Go_Learn_Unable_Floordrawing>
+  <KT_Go_Learn_Unable_Radiotalking>Doesnt want to radiotalk</KT_Go_Learn_Unable_Radiotalking>
+  <KT_Go_Learn_Unable_NatureRunning>Doesnt want to nature run</KT_Go_Learn_Unable_NatureRunning>
+
+  <KT_Go_Learn_Unable_Hungry>Too hungry</KT_Go_Learn_Unable_Hungry>
+  <KT_Go_Learn_Unable_Tired>Too tired</KT_Go_Learn_Unable_Tired>
+  <KT_Go_Learn_Unable_Satisfied>Doesnt need to learn</KT_Go_Learn_Unable_Satisfied>
+  
+  <KT_Go_Learn_Lessontaking>Go get taught</KT_Go_Learn_Lessontaking>
+  <KT_Go_Learn_Workwatching>Go learn by workwatching {0}</KT_Go_Learn_Workwatching>
+  <KT_Go_Learn_Skydreaming>Go skydream</KT_Go_Learn_Skydreaming>
+  <KT_Go_Learn_Radiotalking>Go radiotalk</KT_Go_Learn_Radiotalking>
+  <KT_Go_Learn_Floordrawing>Go floordrawing</KT_Go_Learn_Floordrawing>
+  <KT_Go_Learn_NatureRunning>Go nature running</KT_Go_Learn_NatureRunning>
+</LanguageData>

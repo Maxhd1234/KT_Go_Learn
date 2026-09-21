@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+<KT_Go_Learn_Unable>無法學習：{0}</KT_Go_Learn_Unable>
+<KT_Go_Learn_Unable_Teacher>沒有可用的老師</KT_Go_Learn_Unable_Teacher>
+
+<KT_Go_Learn_Unable_Lessontaking>不想上課</KT_Go_Learn_Unable_Lessontaking>
+<KT_Go_Learn_Unable_Skydreaming>不想做白日夢</KT_Go_Learn_Unable_Skydreaming>
+<KT_Go_Learn_Unable_Workwatching>不想觀摩工作</KT_Go_Learn_Unable_Workwatching>
+<KT_Go_Learn_Unable_Floordrawing>不想在地面畫畫</KT_Go_Learn_Unable_Floordrawing>
+<KT_Go_Learn_Unable_Radiotalking>不想進行無線電通訊</KT_Go_Learn_Unable_Radiotalking>
+<KT_Go_Learn_Unable_NatureRunning>不想去野外閒逛</KT_Go_Learn_Unable_NatureRunning>
+
+<KT_Go_Learn_Unable_Hungry>太餓了</KT_Go_Learn_Unable_Hungry>
+<KT_Go_Learn_Unable_Tired>太累了</KT_Go_Learn_Unable_Tired>
+<KT_Go_Learn_Unable_Satisfied>不需要學習</KT_Go_Learn_Unable_Satisfied>
+
+<KT_Go_Learn_Lessontaking>去上課</KT_Go_Learn_Lessontaking>
+<KT_Go_Learn_Workwatching>去觀摩 {0} 工作</KT_Go_Learn_Workwatching>
+<KT_Go_Learn_Skydreaming>去做白日夢</KT_Go_Learn_Skydreaming>
+<KT_Go_Learn_Radiotalking>去進行無線電通訊</KT_Go_Learn_Radiotalking>
+<KT_Go_Learn_Floordrawing>在地面畫畫</KT_Go_Learn_Floordrawing>
+<KT_Go_Learn_NatureRunning>去野外閒逛</KT_Go_Learn_NatureRunning>
+</LanguageData>
