@@ -3,6 +3,7 @@
 ### Added
 - Translation keys for Settings
 - higher res preview.png
+- different method for getting the name for workwatching
 
 ## Fixed
 - KT_Go_Learn_Unable_Teacher not actually being translated in the code
