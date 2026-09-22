@@ -206,10 +206,9 @@ namespace KT_Go_Learn
             {
 
                 FloatMenuOption floatMenuOption = SoonNeedsBasicNeed(pawn, context);
-                string pawnNameFull = context.ClickedPawns[0].Name.ToString();
                 if (!pawn.learning.ActiveLearningDesires.Contains(DefDatabase<LearningDesireDef>.GetNamed("Workwatching")) && settings.onlyAllowWantedLearning)
                 {
-                    yield return new FloatMenuOption("KT_Go_Learn_Unable".Translate("KT_Go_Learn_Unable_Workwatching".Translate(pawnNameFull.Split(" ")[0])), null);
+                    yield return new FloatMenuOption("KT_Go_Learn_Unable".Translate("KT_Go_Learn_Unable_Workwatching".Translate(context.ClickedPawns[0].LabelShort)), null);
                 }
                 else if (floatMenuOption == null)
                 {
@@ -219,7 +218,7 @@ namespace KT_Go_Learn
                     floatMenuOption = null;
 
 
-                    yield return new FloatMenuOption("KT_Go_Learn_Workwatching".Translate(pawnNameFull.Split(" ")[0]),
+                    yield return new FloatMenuOption("KT_Go_Learn_Workwatching".Translate(context.ClickedPawns[0].LabelShort),
                         delegate
                         {
                             pawn.jobs.ClearQueuedJobs();
