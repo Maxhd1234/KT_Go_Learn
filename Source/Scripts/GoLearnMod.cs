@@ -34,12 +34,12 @@ namespace KT_Go_Learn
 
             float learningCapInternal = settings.learningCap;
             learningCapInternal = listingStandard.SliderLabeled(
-                "Learning threshold: " + learningCapInternal.ToString("P0"),
+                "KT_Go_Learn_Settings_LearningThreshold".Translate() + learningCapInternal.ToString("P0"),
                 learningCapInternal,
                 0f,
                 1f
             );
-            listingStandard.CheckboxLabeled("Only allow desired learning type", ref settings.onlyAllowWantedLearning, "Only allow forcing of learning when the clicked action is the childs wanted learning desire");
+            listingStandard.CheckboxLabeled("KT_Go_Learn_Settings_DesiredType".Translate(), ref settings.onlyAllowWantedLearning, "KT_Go_Learn_Settings_DesiredTypeTooltip".Translate());
 
             settings.learningCap = (float)Math.Round(learningCapInternal, 2);
 

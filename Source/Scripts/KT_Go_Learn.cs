@@ -102,7 +102,7 @@ namespace KT_Go_Learn
                         }
                         else
                         {
-                            yield return new FloatMenuOption("KT_Go_Learn_Unable".Translate("No teacher available"), null);
+                            yield return new FloatMenuOption("KT_Go_Learn_Unable".Translate("KT_Go_Learn_Unable_Teacher"), null);
                         }
                     }
                     else if (floatMenuOption != null)

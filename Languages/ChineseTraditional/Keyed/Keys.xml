@@ -20,4 +20,8 @@
 <KT_Go_Learn_Radiotalking>去進行無線電通訊</KT_Go_Learn_Radiotalking>
 <KT_Go_Learn_Floordrawing>在地面畫畫</KT_Go_Learn_Floordrawing>
 <KT_Go_Learn_NatureRunning>去野外閒逛</KT_Go_Learn_NatureRunning>
+
+<KT_Go_Learn_Settings_LearningThreshold>学习阈值</KT_Go_Learn_Settings_LearningThreshold>
+<KT_Go_Learn_Settings_DesiredType>仅允许孩子想要的学习类型</KT_Go_Learn_Settings_DesiredType>
+<KT_Go_Learn_Settings_DesiredTypeTooltip>仅当点击的操作是孩子想要的学习类型时，才允许强制学习</KT_Go_Learn_Settings_DesiredTypeTooltip>
 </LanguageData>

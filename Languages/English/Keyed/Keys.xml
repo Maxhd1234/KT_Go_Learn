@@ -20,4 +20,8 @@
   <KT_Go_Learn_Radiotalking>Go radiotalk</KT_Go_Learn_Radiotalking>
   <KT_Go_Learn_Floordrawing>Go floordrawing</KT_Go_Learn_Floordrawing>
   <KT_Go_Learn_NatureRunning>Go nature running</KT_Go_Learn_NatureRunning>
+  
+  <KT_Go_Learn_Settings_LearningThreshold>learning threshold</KT_Go_Learn_Settings_LearningThreshold>
+  <KT_Go_Learn_Settings_DesiredType>Only allow desired learning type</KT_Go_Learn_Settings_DesiredType>
+  <KT_Go_Learn_Settings_DesiredTypeTooltip>Only allow forcing of learning when the clicked action is the childs wanted learning desire</KT_Go_Learn_Settings_DesiredTypeTooltip>
 </LanguageData>
