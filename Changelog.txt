@@ -1,4 +1,14 @@
+## [1.0.1] - 2026-09-22
+
+### Added
+- Translation keys for Settings
+- higher res preview.png
+
+## Fixed
+- KT_Go_Learn_Unable_Teacher not actually being translated in the code
+
+
 ## [1.0.0] - 2026-09-21
 
 ### Added
-- Initial release
+- Initial release on github
